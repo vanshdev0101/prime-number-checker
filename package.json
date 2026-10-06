@@ -1,0 +1,17 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "This packages checks for prime numbers",
+  "keywords": [
+    "prime",
+    "number",
+    "checker"
+  ],
+  "license": "MIT",
+  "author": "vansh",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test_index.js"
+  }
+}
